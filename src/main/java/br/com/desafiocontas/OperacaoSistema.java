@@ -20,7 +20,7 @@ public class OperacaoSistema {
 	
 	//A lista de contas sera usada por outros metodos, portando deve ser da classe
 	ArrayList<Conta2> contas = new ArrayList<Conta2>();
-	String path = "C:/Users/Markinho/cadastro2.txt", escolha;
+	String path = "cadastro2.txt", escolha;
 	File arquivo;
 	int indice;
 
